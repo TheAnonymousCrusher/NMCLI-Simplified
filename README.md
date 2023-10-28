@@ -5,6 +5,7 @@ The following article provides a simple documentation for the
 nmcli aliases used to simplify the process of managing network
 connections in a system.
 
+# Basic Use
 ## 1. Connect to a Network
 
 The nmcon alias is used to connect to a WiFi network.The
@@ -62,3 +63,20 @@ nmlist
 Please note that these aliases are simplified versions of
 nmcli commands and are intended to make the process of managing
 network connections easier and more intuitive for users.
+
+# Installation
+
+### Step 1: Clone this Respository
+Run the following command to *git clone* this project:
+```git clone https://github.com/TheAnonymousCrusher/NMCLI-Simplified.git```
+
+
+### Step 2: Execute the Installion Script 
+Run the following command to go to the directory where the project will cloned to:
+```cd NMCLI-Simplified```
+
+After that, make the .sh file executable:
+```chmod setup.sh```
+
+Now, actually run the script:
+```./setup.sh```
