@@ -55,9 +55,9 @@ Please note that these aliases are simplified versions of
 nmcli commands and are intended to make the process of managing
 network connections easier and more intuitive for users.
 
-<center>
-  <img src="https://github.com/TheAnonymousCrusher/NMCLI-Simplified/assets/129316307/71b94838-4ff9-41bc-a6e9-fd6917096f03">
-</center>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/TheAnonymousCrusher/NMCLI-Simplified/assets/129316307/71b94838-4ff9-41bc-a6e9-fd6917096f03" width="500px">
+</div>
 
 # Installation
 
