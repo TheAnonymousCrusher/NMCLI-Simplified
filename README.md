@@ -1,4 +1,5 @@
-# NetworkManager Command Line Interface (nmcli) Simplified
+# NetworkManager Command Line <br>
+Interface (nmcli) Simplified
 ### (Created by TheAnonymousCrusher on Github)
 
 The following article provides a simple documentation for the
@@ -48,6 +49,8 @@ require any arguments. The syntax is as follows:
 
 ```nmlist```
 
+## Conclusion
+
 Please note that these aliases are simplified versions of
 nmcli commands and are intended to make the process of managing
 network connections easier and more intuitive for users.
@@ -55,16 +58,16 @@ network connections easier and more intuitive for users.
 # Installation
 
 ### Step 1: Clone this Respository
-Run the following command to *git clone* this project:
+Run the following command to *git clone* this project:<br>
 ```git clone https://github.com/TheAnonymousCrusher/NMCLI-Simplified.git```
 
 
 ### Step 2: Execute the Installion Script 
-Run the following command to go to the directory where the project will cloned to:
+Run the following command to go to the directory where the project will cloned to:<br>
 ```cd NMCLI-Simplified```
 
-After that, make the .sh file executable:
+After that, make the .sh file executable:<br>
 ```chmod setup.sh```
 
-Now, actually run the script:
+Now, actually run the script:<br>
 ```./setup.sh```
