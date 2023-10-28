@@ -12,14 +12,14 @@ The nmcon alias is used to connect to a WiFi network.The
 command requires the name of the WiFi network and the password
 as arguments. The syntax is as follows:
 
-```zsh
+```
 nmcon 'WIFI_NAME' password 'PASSWORD'
 ```
 
 For example, to connect to a WiFi network named 'Office_Wifi'
 with the password 'password1234', you would use:
 
-```zsh
+```
 nmcon 'Office_Wifi' password 'password1234'
 ```
 
@@ -29,14 +29,14 @@ The nmdis alias is used to disconnect from a WiFi network. The
 command requires the name of the WiFi network as an argument.
 The syntax is as follows:
 
-```zsh
+```
 nmdis 'WIFI_NAME'
 ```
 
 For example, to disconnect from a WiFi network named
 'Office_Wifi', you would use:
 
-```zsh
+```
 nmdis 'Office_Wifi'
 ```
 
@@ -46,7 +46,7 @@ The nmstat alias is used to display the status of all the
 network devices. The command does not require any arguments.
 The syntax is as follows:
 
-```zsh
+```
 nmstat
 ```
 
@@ -56,7 +56,7 @@ The nmlist alias is used to display a list of all the network
 connections that have been established. The command does not
 require any arguments. The syntax is as follows:
 
-```zsh
+```
 nmlist
 ```
 
