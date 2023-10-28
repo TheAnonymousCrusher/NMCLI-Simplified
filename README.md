@@ -57,7 +57,7 @@ network connections easier and more intuitive for users.
 # Installation
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/TheAnonymousCrusher/NMCLI-Simplified/assets/129316307/71b94838-4ff9-41bc-a6e9-fd6917096f03" width="500px">
+  <img src="https://github.com/TheAnonymousCrusher/NMCLI-Simplified/assets/129316307/71b94838-4ff9-41bc-a6e9-fd6917096f03" heigth="100px">
 </div>
 
 ### Step 1: Clone this Respository
