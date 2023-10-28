@@ -55,6 +55,10 @@ Please note that these aliases are simplified versions of
 nmcli commands and are intended to make the process of managing
 network connections easier and more intuitive for users.
 
+<center>
+  ![image](https://github.com/TheAnonymousCrusher/NMCLI-Simplified/assets/129316307/71b94838-4ff9-41bc-a6e9-fd6917096f03)
+</center>
+
 # Installation
 
 ### Step 1: Clone this Respository
