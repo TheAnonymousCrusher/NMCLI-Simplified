@@ -3,7 +3,7 @@
 
 The following article provides a simple documentation for the
 nmcli aliases used to simplify the process of managing network
-connections in a system.
+connections in a linux system. 
 
 # Basic Use
 ## 1. Connect to a Network
