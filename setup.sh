@@ -136,10 +136,10 @@ fi
 
 # Inject aliases to the file
 echo "
-# ---------------------------------------------------------------------
+# ─────────────────────────────────────────────────────── 
 # NMCLI Simplified
 # https://github.com/TheAnonymousCrusher/NMCLI-Simplified
-# ---------------------------------------------------------------------
+# ───────────────────────────────────────────────────────
 
 # Connect to a Network
 # e.g: nmcon 'Office_Wifi' password 'password1234'
