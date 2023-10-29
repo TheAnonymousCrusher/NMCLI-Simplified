@@ -4,7 +4,7 @@
 The following article provides a simple documentation for the
 nmcli aliases used to simplify the process of managing network
 connections in a Linux system. 
-<br>
+<br><br>
 It also highlights that ```nmcli``` works well with window managers like ```sway``` or ```dwm```, which typically have no UI to connect to networks. This makes ```nmcli``` an essential tool for these environments, despite the inefficiency of its syntax. This project aims to address this issue by improving the syntax and overall user experience for regular nmcli users.
 
 # Basic Use
