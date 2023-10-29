@@ -59,7 +59,7 @@ network connections easier and more intuitive for users.
 ## Full Installation in a Single Command
 To fully set up and install NMCLI-Simplified, execute the following command:
 
-```sh
+```md
 git clone https://github.com/TheAnonymousCrusher/NMCLI-Simplified.git
 cd NMCLI-Simplified
 chmod u+x setup.sh
@@ -89,5 +89,5 @@ Finally, execute the installation script to begin the installation process. This
 
 # Final Note
 
-This project has been meticulously developed, and it would be greatly appreciated if you could express your support through a ❤️. <br>
+This project has been meticulously developed, and it would be greatly appreciated if you could express your support through a ```★```<br>
 Lastly, we sincerely hope that you have find the experience of using *NMCLI Simplified* enjoyable.
