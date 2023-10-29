@@ -89,5 +89,5 @@ Finally, execute the installation script to begin the installation process. This
 
 # Final Note
 
-This project has been meticulously developed, and it would be greatly appreciated if you could express your support through a ```★```<br>
-Lastly, we sincerely hope that you have find the experience of using *NMCLI Simplified* enjoyable.
+This project has been meticulously developed, and it would be greatly appreciated if you could express your support through a ❤️<br>
+Lastly, I sincerely hope that you have find the experience of using *NMCLI Simplified* enjoyable.
