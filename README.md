@@ -56,32 +56,35 @@ network connections easier and more intuitive for users.
 
 # Installation
 
-### In one Command
-Run the following command to fully setup and install NMCLI-Simplified: 
+## Full Installation in a Single Command
+To fully set up and install NMCLI-Simplified, execute the following command:
 
-```zsh
+```sh
 git clone https://github.com/TheAnonymousCrusher/NMCLI-Simplified.git
 cd NMCLI-Simplified
 chmod u+x setup.sh
 ./setup.sh
 ```
+## Step-by-Step Installation
 
-If you wish to go through the process step-by-step, follow the below 
-instructions.  
+If you prefer to go through the installation process step-by-step, please follow the instructions below:
 
-### Step 1: Clone this Respository
-Run the following command to *git clone* this project:<br>
+### Step 1: Cloning the Repository
+Execute the following command to clone this project from the Github repository:<br>
 ```git clone https://github.com/TheAnonymousCrusher/NMCLI-Simplified.git```
 
 
-### Step 2: Execute the Installion Script 
-Run the following command to go to the directory where the project will cloned to:<br>
+### Step 2: Changing to the Project Directory
+Next, navigate to the directory into which the project has been cloned. You can do this by running the following command:<br>
 ```cd NMCLI-Simplified```
 
-After that, make the .sh file executable:<br>
+
+### Step 3: Modifying the Script Permissions
+After navigating to the correct directory, the next step is to modify the permissions of the .sh file to make it executable. This can be achieved by running the following command:<br>
 ```chmod u+x setup.sh```
 
-Now, actually run the script:<br>
+### Step 4: Running the Installation Script
+Finally, execute the installation script to begin the installation process. This can be done by running the following command:<br>
 ```./setup.sh```
 
 # Final Note
