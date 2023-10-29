@@ -114,13 +114,15 @@ For Alpine Linux, you can install Git using the apk package manager with the fol
 sudo apk add git
 ```
 
+### Post installation
+
 After installing Git, you can verify the installation by checking the Git version with the following command:
 
 ```
 git --version
 ```
 
-This command should return the installed version of Git. If Git is installed correctly, you can proceed with the installation of the Neovim configurations as described in the previous sections.
+This command should return the installed version of Git. If Git is installed correctly, you can proceed with the installation as described in the previous sections.
 
 ## Full Installation in a Single Command
 To fully set up and install NMCLI-Simplified, execute the following command:
