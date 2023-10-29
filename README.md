@@ -56,8 +56,6 @@ network connections easier and more intuitive for users.
 
 # Installation
 
-# Installation
-
 This section provides two methods for installing and setting up the Neovim configurations from this repository: a full installation via a single command, and a step-by-step installation process.
 
 ## Installation Prerequisites
