@@ -56,9 +56,18 @@ network connections easier and more intuitive for users.
 
 # Installation
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/TheAnonymousCrusher/NMCLI-Simplified/assets/129316307/71b94838-4ff9-41bc-a6e9-fd6917096f03" heigth="100px">
-</div>
+### In one Command
+Run the following command to fully setup and install NMCLI-Simplified: 
+
+```zsh
+git clone https://github.com/TheAnonymousCrusher/NMCLI-Simplified.git
+cd NMCLI-Simplified
+chmod u+x setup.sh
+./setup.sh
+```
+
+If you wish to go through the process step-by-step, follow the below 
+instructions.  
 
 ### Step 1: Clone this Respository
 Run the following command to *git clone* this project:<br>
@@ -70,74 +79,9 @@ Run the following command to go to the directory where the project will cloned t
 ```cd NMCLI-Simplified```
 
 After that, make the .sh file executable:<br>
-```chmod setup.sh```
+```chmod u+x setup.sh```
 
 Now, actually run the script:<br>
 ```./setup.sh```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    HTML CSS JS 
-
-    Result
-    Skip Results Iframe
-
-EDIT ON
-
-<header>Welcome to a webpage written entirely in Vanilla <strike>JS</strike> HTML.</header>
-
-<!-- Heading -->
-<h1>THE ROCKET BLOG FROM THE FUTURE 🚀</h1>
-<p>My thoughts and ideas on rockets and the science behind them. <a href="https://about.me/vaibhav_khulbe" target="_blank">Learn more</a>.</p>
-<br>
-
-<!-- Article -->
-<img src="https://images.pexels.com/photos/796206/pexels-photo-796206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Space shuttle"/>
-<kbd>FEATURED</kbd>
-<h4><a href="#">Lorem ipsum dolor sit, amet consectetur adipisicing elit</a></h4>
-<p>Optio, beatae! Aut quis id voluptate ullam repellendus. Et sit, ipsa, non consequuntur magnam quaerat temporibus at officiis ab, expedita molestiae liber...</p>
-<a href="#"><button><b>READ MORE</b></button></a>
-<br><br>
-
-<!-- Article break -->
-<details>
-  <summary>What was the secret behind this mission?</summary>
-  <img src="https://media.giphy.com/media/NdKVEei95yvIY/giphy.gif" alt="Secret GIF">
-  <p>Okay, go watch The Office.</p>
-</details>
-<br><br>
-
-<!-- Article -->
-<kbd>SPACE</kbd> <kbd>LUNA</kbd> <kbd>PRESSURE</kbd>
-<h4><a href="#">Ad aspernatur, nemo unde neque laboriosam sequi?</a></h4>
-<p>Nullam in lorem nec mi euismod pretium in eu erat. Nunc lacus tellus, sodales molestie sem id, tempor elementum turpis. Auris dapibus mi vitae libero luctus iaculis non non turpis. Mauris molestie ultrices...</p>
-<a href="#"><button><b>READ MORE</b></button></a>
-<br><br>
-
-<!-- Article break -->
-<blockquote>
-  “The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.” <i> - Konstantin Tsiolkovsky</i>
-</blockquote>
-<br><br>
-
-<!-- Footer -->
 <center>（￣︶￣）↗</center>　
 
