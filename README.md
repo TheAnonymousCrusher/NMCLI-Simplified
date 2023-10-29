@@ -58,6 +58,74 @@ network connections easier and more intuitive for users.
 
 # Installation
 
+# Installation
+
+This section provides two methods for installing and setting up the Neovim configurations from this repository: a full installation via a single command, and a step-by-step installation process.
+
+## Installation Prerequisites
+
+Please note that these instructions assume you use a Unix-like operating system and a basic understanding of command-line operations. If you encounter any issues during the installation process, please refer to the documentation for further guidance.
+
+Before proceeding with the installation, ensure that you have Git installed on your system. Git is a version control system that is essential for cloning and managing this repository.
+
+If you do not have Git installed, you can do so using the package manager of your Linux distribution.
+
+#### Arch Linux
+
+For Arch Linux, you can install Git using the pacman package manager with the following command:
+
+```
+sudo pacman -S git
+```
+
+#### Debian/Mint/Ubuntu
+
+For Debian, Mint, or Ubuntu, you can install Git using the apt package manager with the following command:
+
+```
+sudo apt install git
+```
+
+#### OpenSuse
+
+For OpenSuse, you can install Git using the zypper package manager with the following command:
+
+```
+sudo zypper install git
+```
+
+#### Fedora
+
+For Fedora, you can install Git using the dnf package manager with the following command:
+
+```
+sudo dnf install git
+```
+
+#### CentOS/RHEL
+
+For CentOS or RHEL, you can install Git using the yum package manager with the following command:
+
+```
+sudo yum install git
+```
+
+#### Alpine Linux
+
+For Alpine Linux, you can install Git using the apk package manager with the following command:
+
+```
+sudo apk add git
+```
+
+After installing Git, you can verify the installation by checking the Git version with the following command:
+
+```
+git --version
+```
+
+This command should return the installed version of Git. If Git is installed correctly, you can proceed with the installation of the Neovim configurations as described in the previous sections.
+
 ## Full Installation in a Single Command
 To fully set up and install NMCLI-Simplified, execute the following command:
 
