@@ -83,5 +83,8 @@ After that, make the .sh file executable:<br>
 
 Now, actually run the script:<br>
 ```./setup.sh```
-<center>（￣︶￣）↗</center>　
 
+# Final Note
+
+This project has been meticulously developed, and it would be greatly appreciated if you could express your support through a ❤️. <br>
+Lastly, we sincerely hope that you have find the experience of using *NMCLI Simplified* enjoyable.
