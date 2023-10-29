@@ -1,4 +1,4 @@
-# NetworkManager Command Line <br>Interface (nmcli) Simplified
+# NetworkManager Command Line Interface (nmcli) Simplified
 ### (Created by TheAnonymousCrusher on Github)
 
 The following article provides a simple documentation for the
@@ -89,5 +89,5 @@ Finally, execute the installation script to begin the installation process. This
 
 # Final Note
 
-This project has been meticulously developed, and it would be greatly appreciated if you could express your support through a ❤️<br>
-Lastly, I sincerely hope that you have find the experience of using *NMCLI Simplified* enjoyable.
+This project has been meticulously developed, and it would be greatly appreciated if you could express your support through a  ❤️<br>
+Lastly, I sincerely hope that you have find the experience of using *NMCLI Simplified* convenient.
